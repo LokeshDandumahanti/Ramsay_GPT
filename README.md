@@ -3,6 +3,8 @@
 ### Project 
 You can check it out the working model at hugging face : https://huggingface.co/spaces/schmidlj/Ramsay_GPT
 
+https://github.com/LokeshDandumahanti/Ramsay_GPT/blob/main/Screenshot%202024-08-27%20003331.png
+
 ### Introduction
 
 I am thrilled to share a collaborative project that I recently completed with my colleague Johanna Schmidle: RamsayGPT. This innovative AI-powered web application brings the unmistakable voice and personality of Gordon Ramsay to life, utilizing the advanced capabilities of OpenAI's language model.
