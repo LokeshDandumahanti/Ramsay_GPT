@@ -1,6 +1,6 @@
 # Ramsay_GPT
 
- #Excited to Announce Our Latest Project: RamsayGPT!
+ # Excited to Announce Our Latest Project: RamsayGPT!
 
 I am thrilled to share a collaborative project that I recently completed with my colleague Johanna Schmidle: RamsayGPT. This innovative AI-powered web application brings the unmistakable voice and personality of Gordon Ramsay to life, utilizing the advanced capabilities of OpenAI's language model.
 
