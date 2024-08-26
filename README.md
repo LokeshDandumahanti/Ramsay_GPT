@@ -3,6 +3,8 @@
 ### Project 
 You can check it out the working model at hugging face : https://huggingface.co/spaces/schmidlj/Ramsay_GPT
 
+### Introduction
+
 I am thrilled to share a collaborative project that I recently completed with my colleague Johanna Schmidle: RamsayGPT. This innovative AI-powered web application brings the unmistakable voice and personality of Gordon Ramsay to life, utilizing the advanced capabilities of OpenAI's language model.
 
 For this project, we integrated OpenAI's API into our codebase and developed a dynamic web interface using Streamlit, which we then successfully deployed on Hugging Face. The result is a seamless and interactive platform that responds just like the renowned chef, thanks to both the training on relevant data and meticulous prompt engineering to capture his unique communication style.
