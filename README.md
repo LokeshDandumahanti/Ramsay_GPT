@@ -1,7 +1,10 @@
 # Ramsay_GPT
 
 ### Project 
-You can check it out the working model at hugging face : https://huggingface.co/spaces/schmidlj/Ramsay_GPT
+
+You can check it out the working model at hugging face : 
+
+### Hugging face : https://huggingface.co/spaces/schmidlj/Ramsay_GPT
 
 ![Screenshot 2024-08-27 003331](https://github.com/user-attachments/assets/c0090016-8ccd-4878-a5c1-508d6b6101c7)
 
